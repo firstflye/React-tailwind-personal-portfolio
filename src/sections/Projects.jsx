@@ -134,7 +134,7 @@ export const Projects = () => {
 
         {/* View All CTA */}
         <div className="text-center mt-12 animate-fade-in animation-delay-500">
-          <AnimatedBorderButton  href="https://github.com/firstflye">
+          <AnimatedBorderButton href="https://github.com/firstflye">
             View All Projects
             <ArrowUpRight className="w-5 h-5" />
           </AnimatedBorderButton>
