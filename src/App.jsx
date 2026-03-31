@@ -19,6 +19,7 @@ function App() {
       <Analytics />
     </main>
     <Footer />
+    <Analytics />
   </div>
 }
 
